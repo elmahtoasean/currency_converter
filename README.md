@@ -5,8 +5,7 @@ A new Flutter project.
 
 ## Screenshots
 
-![App Screenshot](https://raw.githubusercontent.com/elmahtoasean/currency_converter/main/assets/1.png)
-
+![App Screenshot](https://raw.githubusercontent.com/elmahtoasean/currency_converter/main/assets/1.png) <br>
 ![App Screenshot](https://raw.githubusercontent.com/elmahtoasean/currency_converter/main/assets/2.png)
 
 ## Getting Started
